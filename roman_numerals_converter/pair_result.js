@@ -1,5 +1,11 @@
 //https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter/
-
+/*
+  SolutionBy{
+      divae ,
+      saruba ,
+      Lluis Guirado
+  }
+*/
 const CURRENCY_UNIT = {
     'ONE HUNDRED': 100,
     'TWENTY': 20,
